@@ -5,6 +5,16 @@ namespace Justin.CodeLou.ExerciseProject
     class Program
     {
         static void Main(string[] args)
+        {            
+            bool repeat = true;
+            do 
+            {
+                Questionaire();
+                Console.WriteLine("Would you like to enter another student record?  Y/N   ");
+                
+            }while (repeat = Console.ReadLine().ToUpper() == "Y");
+        }    
+            static Student Questionaire()
         {
             Console.WriteLine("Enter Student Id");
             var studentId = Convert.ToInt32(Console.ReadLine());
@@ -29,10 +39,11 @@ namespace Justin.CodeLou.ExerciseProject
             studentRecord.StartDate = startDate;
             studentRecord.LastClassCompleted = lastClass;
             studentRecord.LastClassCompletedOn = lastCompletedOn;
-            Console.WriteLine($"Student Id | Name |  Class "); ;
-            Console.WriteLine($"{studentRecord.StudentId} | {studentRecord.FirstName} {studentRecord.LastName} | {studentRecord.ClassName} "); ;
-            Console.ReadKey();    
-
-        }
+            Console.WriteLine($"Student Id | Name |  Class ");
+            Console.WriteLine($"{studentRecord.StudentId} | {studentRecord.FirstName} {studentRecord.LastName} | {studentRecord.ClassName} ");
+            Console.ReadKey();
+            return studentRecord;
+                   
+        }         
     }
 }

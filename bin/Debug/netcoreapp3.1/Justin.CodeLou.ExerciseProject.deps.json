@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Justin.CodeLou.ExerciseProject/1.0.0": {
+        "runtime": {
+          "Justin.CodeLou.ExerciseProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Justin.CodeLou.ExerciseProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
