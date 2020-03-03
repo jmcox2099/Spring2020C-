@@ -7,10 +7,10 @@ namespace Justin.CodeLou.ExerciseProject
 {
     class Program
     {
-        static string _studentRepositoryPath = $"{AppDomian.CurrentDomain.BaseDirectory}\\students.json";
+        static string _studentRepositoryPath = $"{AppDomain.CurrentDomain.BaseDirectory}\\students.json";
 
 
-        static List<Student> studentsList = File.Exists(_studentRepositoryPath) ? Read : new List<Student>();
+        static List<Student> studentsList = File.Exists(_studentRepositoryPath) ? Read() : new List<Student>();
         static void Save()
         {
              var serializedStudents = JsonSerializer.Serialize(studentsList);
