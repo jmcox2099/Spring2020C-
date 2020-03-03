@@ -1,0 +1,11 @@
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\bin\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.exe
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\bin\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.deps.json
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\bin\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.runtimeconfig.json
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\bin\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.runtimeconfig.dev.json
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\bin\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.dll
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\bin\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.pdb
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\obj\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.csprojAssemblyReference.cache
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\obj\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.AssemblyInfoInputs.cache
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\obj\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.AssemblyInfo.cs
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\obj\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.dll
+C:\Users\G.I.Jesus\Desktop\Source\Spring2020C-\obj\Debug\netcoreapp3.1\Justin.CodeLou.ExerciseProject.pdb
