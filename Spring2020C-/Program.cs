@@ -124,17 +124,16 @@ namespace Justin.CodeLou.ExerciseProject
             }
         
             Console.WriteLine("Enter First Name");
-            var studentFirstName = Console.ReadLine();
+            student.FirstName = Console.ReadLine();
             Console.WriteLine("Enter Last Name");
-            var studentLastName = Console.ReadLine();
+            student.LastName = Console.ReadLine();
             Console.WriteLine("Enter Class Name");
-            var className = Console.ReadLine();
-            Console.WriteLine("Enter Last Class Completed");
-            var lastClass = Console.ReadLine();
-            
+            student.ClassName = Console.ReadLine();
+                    
             studentsList.Add(student);
             Save();
         }    
+        
   
     }
 }
